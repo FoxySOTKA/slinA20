@@ -97,10 +97,14 @@ C) [3] **Ленточная библиотека** - устройства для
 Попробуйте узнать IP-адрес вашего компьютера из [консоли (командной строки)](https://webkyrs.info/post/chto-takoe-komandnaia-stroka-kak-ee-zapustit-na-windows-linux-i-mac) с помощью команды `ipconfig` или `ifconfig` в зависимости от ОС, либо через графический интерфейс.
 Совпадает ли он с [адресом, который видит, например, Яндекс](https://internet.yandex.ru)? Как вы думаете, почему?
 
+#### Ответ:
+
 ---
 
 ### Кейс 7.
 
 Какой процессор вы выберете - Intel Core i5 9600K или Intel Core i7 7700K?
-Почему Intel Core i5 9600K или Intel Core i7 7700K? [Изменится ли мнение после просмотра этого сравнения?](https://cpu.userbenchmark.com/Compare/Intel-Core-i5-9600K-vs-Intel-Core-i7-7700K/4031vs3647) Опишите ход ваших мыслей.
+Почему Intel Core i5 9600K или Intel Core i7 7700K? [Изменится ли мнение после просмотра этого сравнения?](https://cpu.userbenchmark.com/Compare/Intel-Core-i5-9600K-vs-Intel-Core-i7-7700K/4031vs3647).
 Какую материнскую плату вы выберете для выбранного процессора?
+
+#### Ответ:
