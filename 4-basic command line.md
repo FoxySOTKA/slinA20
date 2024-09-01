@@ -78,7 +78,11 @@
 
 Выведите на экран строку с вашей фамилией. Выполните все в одну строку.
 
-*Пришлите получившуюся команду.*
+*Получившуюся команда:*
+
+```sql
+mkdir  savitskiy4-23.01.17  &&  mv  -v ~/savitskiy4  savitskiy4-23.01.17  &&  touch  concept.1  &&  mv  concept.1  ~/savitskiy4-23.01.17  &&  cat  /etc/os-release  ~/savitskiy4-23.01.17/concept.1  |   sponge  &&  echo  Savitskiy Andrey  >>  ~/savitskiy4-23.01.17/concept.1  &&  echo  4  >>  ~/savitskiy4-23.01.17/concept.1  &&  cat  ~/savitskiy4-23.01.17/concept.1  |  grep  Savitskiy Andrey  
+```
 
 ---
 
