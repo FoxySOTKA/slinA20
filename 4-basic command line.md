@@ -38,7 +38,10 @@
 
 5.	Запустите виртуальную машину.
 
-*Сделайте скриншот консоли, где в строке ввода будет ваше ФИО.*
+*Скриншот консоли, где в строке ввода мои ФИО:*
+
+![Задание 1](https://github.com/user-attachments/assets/127c4c97-c23b-4702-9ec7-77c0b7729225)
+
 
 ---
 
@@ -80,9 +83,9 @@
 
 *Получившуюся команда:*
 
-``sql
+```sql
 mkdir  savitskiy4-23.01.17  &&  mv  -v ~/savitskiy4  savitskiy4-23.01.17  &&  touch  concept.1  &&  mv  concept.1  ~/savitskiy4-23.01.17  &&  cat  /etc/os-release  ~/savitskiy4-23.01.17/concept.1  |   sponge  &&  echo  Savitskiy Andrey  >>  ~/savitskiy4-23.01.17/concept.1  &&  echo  4  >>  ~/savitskiy4-23.01.17/concept.1  &&  cat  ~/savitskiy4-23.01.17/concept.1  |  grep  Savitskiy Andrey  
-``
+```
 
 ---
 
